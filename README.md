@@ -1,16 +1,18 @@
-### Hi there 👋
+## 👋, I'm Chrinsieboy!
 
-<!--
-**Chrinsieboy/Chrinsieboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Something about me
+- Name: **Chrinsieboy**
+- Age: **15**
+- Gender: **boy**
 
-Here are some ideas to get you started:
+# What do i do?
+- Coding for fun.
+- Trying to understand Discords api and rich presence
+- Trying to understand ubuntu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact me 
+Chrinsieboyyy#3976
+[GitHub](https://github.com/)
+
+# What do I use
+[<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.org) [<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />](https://npmjs.com) [<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />](https://code.visualstudio.com/)

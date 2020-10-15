@@ -23,10 +23,7 @@
 
 # Others
 [![GitHub followers](https://img.shields.io/github/followers/Chrinsieboy.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Chrinsieboy?tab=followers)
-[![GitHub contributors](https://img.shields.io/github/contributors/Chrinsieboy/StrapDown.js.svg)](https://GitHub.com/Chrinsieboy/StrapDown.js/graphs/contributors/)
-[![GitHub issues](https://img.shields.io/github/issues/Chrinsieboy/StrapDown.js.svg)](https://GitHub.com/Chrinsieboy/StrapDown.js/issues/)
-[![GitHub issues-closed](https://img.shields.io/github/issues-closed/Chrinsieboy/StrapDown.js.svg)](https://GitHub.com/Chrinsieboy/StrapDown.js/issues?q=is%3Aissue+is%3Aclosed)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chrinsieboy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrinsieboy&theme=blue-green)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Chrinsieboy/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chrinsieboy&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)<br>
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrinsieboy&theme=blue-green)<br>
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Chrinsieboy/)<br>
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Chrinsieboy/)

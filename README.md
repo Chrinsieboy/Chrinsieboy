@@ -12,7 +12,7 @@
 
 # Currently working at:
 - [Chrinsieboy Githubpage](https://github.com/Chrinsieboy/Chrinsieboy.github.io)
-- [Uiconditions](https://github.com/Chrinsieboy/Uiconditions)
+- [Uiconditions](https://github.com/Chrinsieboy/UI-Conditions)
 
 # Contact me 
 - [Discord](https://discord.com/): Chrinsieboyyy#3976

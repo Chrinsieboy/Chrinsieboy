@@ -1,6 +1,6 @@
 ## 👋, I'm Chrinsieboy!
 
-# Something about me
+# Something about me:
 - Name: **Chrinsieboy**
 - Age: **15**
 - Gender: **boy**
@@ -10,8 +10,12 @@
 - Trying to understand Discords api and rich presence
 - Trying to understand ubuntu
 
+# Currently working at:
+- Chrinsieboy.github.io
+- Uiconditions.thats.im
+
 # Contact me 
-- Discord: Chrinsieboyyy#3976
+- [Discord](https://discord.com/): Chrinsieboyyy#3976
 - [GitHub](https://github.com/): Chrinsieboy
 
 # What do I use

@@ -11,8 +11,8 @@
 - Trying to understand ubuntu
 
 # Currently working at:
-- Chrinsieboy.github.io
-- Uiconditions.thats.im
+- [Chrinsieboy Githubpage](https://github.com/Chrinsieboy.github.io)
+- [Uiconditions](https://github.com/Uiconditions)
 
 # Contact me 
 - [Discord](https://discord.com/): Chrinsieboyyy#3976

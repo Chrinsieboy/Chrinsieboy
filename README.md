@@ -1,18 +1,18 @@
 ## 👋, I'm Chrinsieboy!
 
 # Something about me:
-- Name: **Chrinsieboy**
+- Name: **Chris Friemann**
+- gamertag: **Chrinsieboy**
 - Age: **16**
 - Gender: **boy**
 
 # What do i do?
 - Coding for fun.
-- Trying to understand Discords api and rich presence
-- Trying to understand ubuntu
+- Playing Minecraft
+- Trying to understand life...
 
 # Currently working at:
-- [Chrinsieboy Githubpage](https://github.com/Chrinsieboy/Chrinsieboy.github.io)
-- [Uiconditions](https://github.com/Chrinsieboy/UI-Conditions)
+- Nothing actually
 
 # Contact me 
 - [Discord](https://discord.com/): Chrinsieboyyy#3976

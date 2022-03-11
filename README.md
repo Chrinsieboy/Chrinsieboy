@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200.svg)](https://wakatime.com/@1d1f8a72-ada4-4696-b645-46d5cb47a200)
 ## 👋, I'm Chrinsieboy!
 
 # Something about me:

@@ -3,9 +3,10 @@
 
 # Something about me:
 - Name: **Chris Friemann**
-- gamertag: **Chrinsieboy**
+- Gamertag: **Chrinsieboy**
 - Age: **17**
 - Gender: **boy**
+- Country: **The Netherlands**
 
 # What do i do?
 - Coding for fun.
@@ -15,7 +16,7 @@
 # Currently working at:
 - MuntenHarker for school (a accountancy website)
 - Disneyplus but for the family (Not For Your Eyes)
-- Chris Friemann 5.0
+- Chris Friemann 5.0 (almost done)
 
 # Contact me 
 - [Mail Me](mailto:contact@chris.friemann.nl)

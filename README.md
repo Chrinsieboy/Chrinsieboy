@@ -16,7 +16,7 @@
 # Currently working at:
 - MuntenHarker for school (a accountancy website)
 - Disneyplus but for the family (Not For Your Eyes)
-- Chris Friemann 5.0 (almost done)
+- Chris Friemann 5.0 (First release is now done)
 
 # Contact me 
 - [Mail Me](mailto:contact@chris.friemann.nl)

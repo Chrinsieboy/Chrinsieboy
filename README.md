@@ -5,25 +5,35 @@
 - Name: **Chris Friemann**
 - Gamertag: **Chrinsieboy**
 - Age: **17**
-- Gender: **boy**
+- Gender: **Boy**
 - Country: **The Netherlands**
-
-# What do i do?
-- Coding for fun.
-- Playing Minecraft
-- Trying to understand life...
+- Theme: **Dark, please use this**
 
 # Currently working at:
-- MuntenHarker for school (a accountancy website)
-- Disneyplus but for the family (Not For Your Eyes)
-- Chris Friemann 5.0 (First release is now done)
+- MuntenHarker for school (A accountancy website 💸)
+- Disneyplus but for the family, so Friemannplus (Not For Your Eyes 👀)
+- Chris Friemann 5.0 (First release is now out! 😎)
 
 # Contact me 
-- [Mail Me](mailto:contact@chris.friemann.nl)
+[<img align="left" alt="LinkedIn" width="160" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/chrisfriemann) [<img align="left" alt="mail" width="90" src="https://cdn.vox-cdn.com/thumbor/8fWz6qpiMYMsZhY4vrc9Vhl5yL8=/0x110:1320x770/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21939811/newgmaillogo.jpg" />](mailto:contact@chris.friemann.nl)
+<br /><br />
+
+# What do i do?
+- Code
+- Playing Minecraft
+- Trying to understand how to make stupid charts with [chartisan](https://chartisan.dev/) in laravel
 
 # What do I use
-[<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.org) [<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />](https://npmjs.com) [<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />](https://code.visualstudio.com/) [![Unity](https://img.shields.io/badge/Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com) [![Larvel](https://img.shields.io/badge/laravel-000000.svg?style=flat&logo=laravel)](https://laravel.com)
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
+<br/>
 
 # Others
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrinsieboy&theme=blue-green)<br>
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Chrinsieboy/)
+![Chrinsieboy's github stats](https://github-readme-stats.vercel.app/api?username=chrinsieboy&show_icons=true&theme=github_dark )

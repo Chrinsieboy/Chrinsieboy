@@ -10,9 +10,12 @@
 - Theme: **Dark, please use this**
 
 # Currently working at:
-- MuntenHarker for school (A accountancy website 💸)
-- Disneyplus but for the family, so Friemannplus (Not For Your Eyes 👀)
-- Chris Friemann 5.0 (First release is now out! 😎)
+- MuntenHarker for school (A accountancy website 💸) <br/>
+[![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/7387ccf4-d0da-441d-8179-6a13117010e3.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/7387ccf4-d0da-441d-8179-6a13117010e3)
+- Disneyplus but for the family, so Friemannplus (Not For Your Eyes 👀) <br/>
+[![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/3879ee2e-d26e-42d6-ab9d-b7877835dc06.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/3879ee2e-d26e-42d6-ab9d-b7877835dc06)
+- Chris Friemann 5.0 (First release is now out! 😎) <br/>
+[![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/7f4bc026-1350-43f8-9e3f-54669cc07029.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/7f4bc026-1350-43f8-9e3f-54669cc07029)
 
 # Contact me 
 [<img align="left" alt="LinkedIn" width="160" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/chrisfriemann) [<img align="left" alt="mail" width="90" src="https://cdn.vox-cdn.com/thumbor/8fWz6qpiMYMsZhY4vrc9Vhl5yL8=/0x110:1320x770/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21939811/newgmaillogo.jpg" />](mailto:contact@chris.friemann.nl)

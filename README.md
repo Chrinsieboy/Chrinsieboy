@@ -10,8 +10,8 @@
 - Theme: **Dark, please use this**
 
 # Currently working at:
-- [MuntenHarker for school (A accountancy website 💸)](https://github.com/chrinsieboy/muntenharker) <br/>
-[![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/7387ccf4-d0da-441d-8179-6a13117010e3.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/7387ccf4-d0da-441d-8179-6a13117010e3)
+- Shoppinglist for parents 🛒 <br/>
+[![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/4b93d051-0c62-45e5-a4e6-e031ba4b41ac.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/4b93d051-0c62-45e5-a4e6-e031ba4b41ac)
 - Disneyplus but for the family, so Friemannplus (Not For Your Eyes 👀) <br/>
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/3879ee2e-d26e-42d6-ab9d-b7877835dc06.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/3879ee2e-d26e-42d6-ab9d-b7877835dc06)
 - [Chris Friemann 5.0 (First release is now out! 😎)](https://github.com/chrinsieboy/chris-friemann-5.0) <br/>
@@ -24,7 +24,7 @@
 # What do i do?
 - Code
 - Playing Minecraft
-- Being stupid in the last week before projectreview
+- Being stupid
 
 # What do I use
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

@@ -14,7 +14,7 @@
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/4b93d051-0c62-45e5-a4e6-e031ba4b41ac.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/4b93d051-0c62-45e5-a4e6-e031ba4b41ac)
 - Disneyplus but for the family, so Friemannplus (Not For Your Eyes 👀) <br/>
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/3879ee2e-d26e-42d6-ab9d-b7877835dc06.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/3879ee2e-d26e-42d6-ab9d-b7877835dc06)
-- [Introduction to Svelte](https://github.com/chrinsieboy/svelte-introduction) <br/>
+- Introduction to Svelte 📚<br/>
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/357f7c55-6f87-468b-8422-7354c9bfc148.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/357f7c55-6f87-468b-8422-7354c9bfc148)
 
 # Contact me 
@@ -37,7 +37,9 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="Vuejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" alt="Svelte" width="26px" src="https://avatars.githubusercontent.com/u/23617963?s=280&v=4" />
 <br/>
+
 
 # Others
 ![Chrinsieboy's github stats](https://github-readme-stats.vercel.app/api?username=chrinsieboy&show_icons=true&theme=github_dark )

@@ -14,7 +14,7 @@
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/4b93d051-0c62-45e5-a4e6-e031ba4b41ac.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/4b93d051-0c62-45e5-a4e6-e031ba4b41ac)
 - Disneyplus but for the family, so Friemannplus (Not For Your Eyes 👀) <br/>
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/3879ee2e-d26e-42d6-ab9d-b7877835dc06.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/3879ee2e-d26e-42d6-ab9d-b7877835dc06)
-- [Introduction to Svelte](https://github.com/chrinsieboy/svelte-introduction) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) <br/>
+- [Introduction to Svelte](https://github.com/chrinsieboy/svelte-introduction) <br/>
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/357f7c55-6f87-468b-8422-7354c9bfc148.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/357f7c55-6f87-468b-8422-7354c9bfc148)
 
 # Contact me 

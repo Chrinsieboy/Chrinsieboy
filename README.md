@@ -1,5 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200.svg)](https://wakatime.com/@1d1f8a72-ada4-4696-b645-46d5cb47a200)
-## 👋, I'm Chrinsieboy!
+<h1 class="center">👋, I'm Chrinsieboy!</h1>
 
 # Something about me:
 - Name: **Chris Friemann**

@@ -44,4 +44,5 @@
 
 
 # Others
-![Chrinsieboy's github stats](https://github-readme-stats.vercel.app/api?username=chrinsieboy&show_icons=true&theme=github_dark )
+![Chrinsieboy's github stats](https://github-readme-stats.vercel.app/api?username=chrinsieboy&show_icons=true&theme=github_dark )<br/>
+Banner is big inspired by [!adriantwarog](https://github.com/adriantwarog)

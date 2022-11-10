@@ -15,11 +15,7 @@
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/4b93d051-0c62-45e5-a4e6-e031ba4b41ac.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/4b93d051-0c62-45e5-a4e6-e031ba4b41ac)
 - Disneyplus but for the family, so Friemannplus (Not For Your Eyes 👀) <br/>
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/3879ee2e-d26e-42d6-ab9d-b7877835dc06.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/3879ee2e-d26e-42d6-ab9d-b7877835dc06)
-- [RemVee Backend](https://github.com/15-en1576nd/RemVee-Backend) 📺<br/>
-[![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/d062ff45-ac53-4f07-9d6a-762f7f101b96.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/d062ff45-ac53-4f07-9d6a-762f7f101b96)
-- [RemVee Frontend](https://github.com/15-en1576nd/RemVee-Frontend) 📺<br/>
-[![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/22df7cf9-cfdc-40ae-b5b9-dc06731d448c.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/22df7cf9-cfdc-40ae-b5b9-dc06731d448c)
-- The README.MD of all repos that i have
+- Internship at [Volcano B.V.](https://volcano.nl)
 
 # Contact me 
 [<img align="left" alt="LinkedIn" width="160" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/chrisfriemann) [<img align="left" alt="mail" width="90" src="https://cdn.vox-cdn.com/thumbor/8fWz6qpiMYMsZhY4vrc9Vhl5yL8=/0x110:1320x770/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21939811/newgmaillogo.jpg" />](mailto:contact@chris.friemann.nl)

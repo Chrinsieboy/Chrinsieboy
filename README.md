@@ -13,8 +13,10 @@
 # Currently working at:
 - Shoppinglist 🛒 <br/>
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/4b93d051-0c62-45e5-a4e6-e031ba4b41ac.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/4b93d051-0c62-45e5-a4e6-e031ba4b41ac)
-- Disneyplus but for the family, so Friemannplus (Not For Your Eyes 👀) <br/>
+- Friemannplus (front-end) (Not For Your Eyes 👀) <br/>
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/3879ee2e-d26e-42d6-ab9d-b7877835dc06.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/3879ee2e-d26e-42d6-ab9d-b7877835dc06)
+- Friemannplus (back-end) (Not For Your Eyes 👀) <br/>
+[![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/077a14dd-1d2f-4a32-a269-acfa570fd2e9.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/077a14dd-1d2f-4a32-a269-acfa570fd2e9)
 - Internship at [Volcano B.V.](https://volcano.nl)
 
 # Contact me 

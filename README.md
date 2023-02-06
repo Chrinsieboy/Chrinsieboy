@@ -6,7 +6,7 @@
 - Name: **Chris Friemann**
 - Gamertag: **Chrinsieboy**
 - Age: **18**
-- Gender: **Boy**
+- Gender: **Man**
 - Country: **The Netherlands**
 - Theme: **Dark, please use this**
 
@@ -17,7 +17,7 @@
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/3879ee2e-d26e-42d6-ab9d-b7877835dc06.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/3879ee2e-d26e-42d6-ab9d-b7877835dc06)
 - Friemannplus (back-end) (Not For Your Eyes 👀) <br/>
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/077a14dd-1d2f-4a32-a269-acfa570fd2e9.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/077a14dd-1d2f-4a32-a269-acfa570fd2e9)
-- Internship at [Volcano B.V.](https://volcano.nl)
+- Design for something, Not For Your Eyes 👀, yet?
 
 # Contact me 
 [<img align="left" alt="LinkedIn" width="160" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/chrisfriemann) [<img align="left" alt="mail" width="90" src="https://cdn.vox-cdn.com/thumbor/8fWz6qpiMYMsZhY4vrc9Vhl5yL8=/0x110:1320x770/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21939811/newgmaillogo.jpg" />](mailto:contact@chris.friemann.nl)
@@ -26,7 +26,7 @@
 # What do i do?
 - Code
 - Playing Minecraft
-- Being an intern software developer at Volcano BV <img alt="Volcano BV" width="26px" style="display:flex; align-items: center;" src="https://volcano.nl/favicon.png" /> 
+- Learning to code @ school
 
 # What do I use
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -40,6 +40,7 @@
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="Vuejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="Svelte" width="26px" src="https://avatars.githubusercontent.com/u/23617963?s=280&v=4" />
+<img align="left" alt="PayloadCMS" width="26px" src="https://avatars.githubusercontent.com/u/62968818?s=280&v=4" />
 <br/>
 
 

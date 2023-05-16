@@ -30,7 +30,7 @@ _wakatimer in progress_
 # What do i do?
 - Code
 - Playing Minecraft
-- Making a checkerboard <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-checkers-edutainment-flaticons-lineal-color-flat-icons-3.png" alt="checkerboard" width="16px" height="16px" />
+- Doing to much at the same time
 
 # What do I use
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

@@ -20,6 +20,8 @@
 - A project from a real client at school<br/>
 _wakatimer in progress_
 <!-- wakatimer -->
+- Chris Friemann Portfolio 6.0 (its going fast) <br/>
+[![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/5a816207-1da2-4eb6-a857-4af872a969ca.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/5a816207-1da2-4eb6-a857-4af872a969ca)
 
 # Contact me 
 [<img align="left" alt="LinkedIn" width="160" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/chrisfriemann) [<img align="left" alt="mail" width="90" src="https://cdn.vox-cdn.com/thumbor/8fWz6qpiMYMsZhY4vrc9Vhl5yL8=/0x110:1320x770/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21939811/newgmaillogo.jpg" />](mailto:contact@chris.friemann.nl)

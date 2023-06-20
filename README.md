@@ -18,8 +18,7 @@
 - Friemannplus (back-end) (Not For Your Eyes 👀) <br/>
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/077a14dd-1d2f-4a32-a269-acfa570fd2e9.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/077a14dd-1d2f-4a32-a269-acfa570fd2e9)
 - A project from a real client at school<br/>
-_wakatimer in progress_
-<!-- wakatimer -->
+[![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/5046bcdc-abfb-4810-be55-97b424b0b3b5.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/5046bcdc-abfb-4810-be55-97b424b0b3b5)
 - Chris Friemann Portfolio 6.0 (its going fast) <br/>
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/5a816207-1da2-4eb6-a857-4af872a969ca.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/5a816207-1da2-4eb6-a857-4af872a969ca)
 

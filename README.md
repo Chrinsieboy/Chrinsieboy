@@ -44,4 +44,8 @@
 <br/>
 
 # Others
+![status](https://api.statusbadges.me/badge/status/352799514442072065) <br/>
+![playing](https://api.statusbadges.me/badge/playing/352799514442072065) <br/>
+![vscode](https://api.statusbadges.me/badge/vscode/352799514442072065) <br/>
+[![spotify](https://api.statusbadges.me/badge/spotify/352799514442072065)](https://api.statusbadges.me/openspotify/352799514442072065)<br/>
 ![Chrinsieboy's github stats](https://github-readme-stats.vercel.app/api?username=chrinsieboy&show_icons=true&theme=github_dark )<br/>

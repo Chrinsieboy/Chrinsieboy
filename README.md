@@ -15,7 +15,7 @@
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/3879ee2e-d26e-42d6-ab9d-b7877835dc06.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/3879ee2e-d26e-42d6-ab9d-b7877835dc06)
 - Friemannplus (back-end) (Not For Your Eyes 👀) <br/>
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/077a14dd-1d2f-4a32-a269-acfa570fd2e9.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/077a14dd-1d2f-4a32-a269-acfa570fd2e9)
-- Chris Friemann Portfolio 6.0 (its going fast) <br/>
+- Chris Friemann Portfolio 6.0 (its not going fast, i fricked up) <br/>
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/5a816207-1da2-4eb6-a857-4af872a969ca.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/5a816207-1da2-4eb6-a857-4af872a969ca)
 - School ToDoList in Java <br/>
 [![wakatime](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/fb067473-a6a1-4f3f-8771-3a4721d926ca.svg)](https://wakatime.com/badge/user/1d1f8a72-ada4-4696-b645-46d5cb47a200/project/fb067473-a6a1-4f3f-8771-3a4721d926ca)

@@ -40,6 +40,8 @@
 <img align="left" alt="Vuejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="Svelte" width="26px" src="https://avatars.githubusercontent.com/u/23617963?s=280&v=4" />
 <img align="left" alt="PayloadCMS" width="26px" src="https://avatars.githubusercontent.com/u/62968818?s=280&v=4" />
+<img align="left" alt="GoLand" width="26px" src="https://avatars.githubusercontent.com/u/4314092?s=48&v=4" />
+
 <br/>
 <br/>
 

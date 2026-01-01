@@ -3,7 +3,7 @@
 # Something about me:
 - Name: **Chris Friemann**
 - Gamertag: **Chrinsieboy**
-- Age: **20**
+- Age: **21**
 - Gender: **Man**
 - Country: **The Netherlands**
 - Theme: **Dark, please use this**
